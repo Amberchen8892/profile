@@ -1446,5 +1446,5 @@ svg {
   align-items: center;
 }
 .full-name p {
-  font-size: 5em;
+  font-size: 3em !important;
 }
